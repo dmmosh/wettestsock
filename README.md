@@ -1,9 +1,10 @@
 
 
 
-i draw, realized no money in it (esp in art degree). existential crisis later and here i am. 
+computer science major with stats minor
+i upload p much all my code here 
 
-trying to learn c++, js, css, and html before hell known as college consumes my entire existence into the very pits of hell itself 
+trying to learn c++, c, python, java, stats, precalc, and calc before hell known as college consumes my entire existence into the very pits of hell itself 
 
                   .----.
       .---------. | == |
