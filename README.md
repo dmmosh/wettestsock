@@ -2,7 +2,7 @@
 
 
 <p align='center'>
-deep learning | machine learning | python / c | c++<br /> 
+deep learning | machine learning | python | c | c++<br /> 
 </p>
 
 <p align='center'>
