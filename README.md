@@ -18,7 +18,7 @@ i upload almost all my code here <br />
 i use arch btw <br />
 </p>
 
-
+<p align='center'>
                   .----.
       .---------. | == |
       |.-"""""-.| |----|
@@ -29,3 +29,4 @@ i use arch btw <br />
      /:::::::::::\" _  "
     /:::=======:::\`\`\
     `"""""""""""""`  '-'
+</p>
