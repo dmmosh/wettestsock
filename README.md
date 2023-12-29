@@ -15,4 +15,4 @@ i upload almost all my code here <br />
 i use arch btw <br />
 </p>
 
-![img8831_1200xx4864-3648-304-0](https://github.com/wettestsock/wettestsock/assets/119987092/4b727433-c564-45a1-82cf-417a8288593b)
+<img src="![img8831_1200xx4864-3648-304-0](https://github.com/wettestsock/wettestsock/assets/119987092/4b727433-c564-45a1-82cf-417a8288593b)" width="200" height="250">
