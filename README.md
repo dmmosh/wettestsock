@@ -16,4 +16,5 @@ i use arch btw <br />
 </p>
 
 <img src="https://github.com/wettestsock/wettestsock/assets/119987092/e2192217-f4ba-4be8-85a4-7be0a8f0527a" width="300" height="250">
+<img src="https://github.com/wettestsock/wettestsock/assets/119987092/e82c8184-ca14-46c0-9daf-acf83951e5b2" width="300" height="250">
 
