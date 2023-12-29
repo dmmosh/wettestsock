@@ -14,7 +14,7 @@ i upload almost all my code here <br />
 <p align='center'>
 i use arch btw <br />
 </p>
-<img src="https://github.com/wettestsock/wettestsock/assets/119987092/0a72481d-d13a-4ff8-9eb0-d34cdcece168" width="300" height="250">
+<img src="https://github.com/wettestsock/wettestsock/assets/119987092/0a72481d-d13a-4ff8-9eb0-d34cdcece168" width="400" height="250">
 
 
 
