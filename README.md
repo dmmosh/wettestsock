@@ -15,4 +15,5 @@ i upload almost all my code here <br />
 i use arch btw <br />
 </p>
 
-<img src="![img8831_1200xx4864-3648-304-0](https://github.com/wettestsock/wettestsock/assets/119987092/4b727433-c564-45a1-82cf-417a8288593b)" width="200" height="250">
+<img src="https://github.com/wettestsock/wettestsock/assets/119987092/e2192217-f4ba-4be8-85a4-7be0a8f0527a" width="200" height="250">
+
