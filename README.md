@@ -1,5 +1,6 @@
 <p align='center'>
 # making computers learn #
+</p>
 
 deep learning / machine learning <br />
 python / c / c++ <br />
@@ -20,4 +21,3 @@ i use arch btw <br />
      /:::::::::::\" _  "
     /:::=======:::\`\`\
     `"""""""""""""`  '-'
-</p>
