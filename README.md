@@ -1,4 +1,4 @@
-# <p align='center'> making computers learn </p> #
+# <p align='center'> TEACHING COMPUTERS </p> #
 
 
 <p align='center'>
