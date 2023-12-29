@@ -14,3 +14,5 @@ i upload almost all my code here <br />
 <p align='center'>
 i use arch btw <br />
 </p>
+![image](https://github.com/wettestsock/wettestsock/assets/119987092/d64906e2-2060-4be3-a2b4-f371b2778b59)
+
